@@ -1,0 +1,6 @@
+closest\ClosestPairTest.class
+metrics\MetricsTest.class
+sort\QuickSortTest.class
+select\DeterministicSelectTest.class
+sort\MergeSortTest.class
+util\SortUtilsTest.class
